@@ -1,0 +1,10 @@
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\bin\Debug\genrick_valid.exe.config
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\bin\Debug\genrick_valid.exe
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\bin\Debug\genrick_valid.pdb
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\obj\Debug\genrick_valid.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\obj\Debug\genrick_valid.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\obj\Debug\genrick_valid.exe
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\obj\Debug\genrick_valid.pdb
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rusla\source\repos\genrick_valid\genrick_valid\obj\Debug\genrick_valid.csproj.CopyComplete
